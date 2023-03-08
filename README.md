@@ -1,4 +1,6 @@
 ### Hi there 👋
+I like planes, helicopters and coding.![image](https://user-images.githubusercontent.com/120135105/223731784-8a45638a-1066-4c5b-9e84-9e25a35c45dc.png)
+
 - 🔭 I'm currently working on myself feedback.
 - 🌱 I'm currently learning Java language.
 - 📫 How to reach me: 
