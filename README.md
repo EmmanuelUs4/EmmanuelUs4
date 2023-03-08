@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I like planes, helicopters and coding.![programming](https://user-images.githubusercontent.com/120135105/223732142-db6d9ea4-892e-42c1-a170-9b1e3c1ac7f6.png)
+I like planes, helicopters and coding.![programming (1)](https://user-images.githubusercontent.com/120135105/223732291-4df7303c-0439-4417-838a-743966ee7521.png)
+
 
 
 - 🔭 I'm currently working on myself feedback.
