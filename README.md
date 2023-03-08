@@ -1,6 +1,6 @@
 ### Hi there I'm  Emmanuel Usme. 👋
 
-I'm a MAKAIA Back-End web devvelopment trainee. I have experience using tools like Visual Studio Code  and Intellij. The main language I speak is Java, followed by JavaScript,  HTML and CSS.
+I'm a MAKAIA Back-End web devvelopment trainee. I have experience using tools like Visual Studio Code  and Intellij. The main language I manage is Java, followed by JavaScript,  HTML and CSS.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelUs4)](https://github.com/anuraghazra/github-readme-stats)
 
