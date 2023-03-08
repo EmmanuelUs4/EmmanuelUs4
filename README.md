@@ -1,7 +1,11 @@
 ### Hi there I'm  Emmanuel Usme. ![goodbye](https://user-images.githubusercontent.com/120135105/223740102-e935d9c3-b87e-43da-a880-9d99b87b9abd.png)
 
 
-I'm a MAKAIA Back-End web devvelopment trainee. I have experience using tools like Visual Studio Code  and Intellij. The main language I manage is Java, followed by JavaScript,  HTML and CSS.
+I'm a MAKAIA Back-End web devvelopment trainee. I have experience using tools like Visual Studio Code  and Intellij. The main language I manage is ![java](https://user-images.githubusercontent.com/120135105/223746155-7fc8fad7-6602-456e-a34e-029c2d3ce7b5.png)
+ Java, followed by ![js](https://user-images.githubusercontent.com/120135105/223746200-e82be57d-90f3-40c1-bf59-a3cfd07e1fd8.png)
+ JavaScript,  ![html-5](https://user-images.githubusercontent.com/120135105/223746218-aa3f5116-97b5-4714-b3b4-c0cdc1694e53.png)
+ HTML and ![css-3](https://user-images.githubusercontent.com/120135105/223746243-a040c919-61cc-47d7-b60d-b425c7aa8b0a.png)
+ CSS.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelUs4)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,18 +24,3 @@ I like planes ![jet-plane](https://user-images.githubusercontent.com/120135105/2
   -LinkedIn https://www.linkedin.com/in/emmanuel-usme-1a8bb5265/
       
 ![Sin título](https://user-images.githubusercontent.com/120135105/223735716-934524b0-b4f4-4204-b4a1-b966aa4a39d7.png)
-
-<!--
-**EmmanuelUs4/EmmanuelUs4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
