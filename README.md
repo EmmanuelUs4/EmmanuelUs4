@@ -23,5 +23,6 @@ I like planes ![jet-plane](https://user-images.githubusercontent.com/120135105/2
      ![linkedin](https://user-images.githubusercontent.com/120135105/223739062-b06608fc-5a4d-4a4c-ae51-44236297007c.png)
   -LinkedIn https://www.linkedin.com/in/emmanuel-usme-1a8bb5265/
       
-![Sin título](https://user-images.githubusercontent.com/120135105/223735716-934524b0-b4f4-4204-b4a1-b966aa4a39d7.png)
+![камов-kamov](https://user-images.githubusercontent.com/120135105/223748425-3454559d-f7a5-41cd-a547-54575ac87257.gif)
+
 ![d5xy829-ccfae74a-0154-453a-8670-f30b11a28134](https://user-images.githubusercontent.com/120135105/223746648-681edfa7-f31f-4033-ad1d-7018fd8bdb02.gif)
