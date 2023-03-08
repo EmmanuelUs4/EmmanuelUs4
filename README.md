@@ -11,6 +11,7 @@ I like planes ![jet-plane](https://user-images.githubusercontent.com/120135105/2
 - 📫 How to reach me: 
       -LinkedIn https://www.linkedin.com/in/emmanuel-usme-1a8bb5265/
       ![image](https://user-images.githubusercontent.com/120135105/223731089-63a7f09e-d66d-4449-8e85-351c2fe67c77.png)
+![Sin título](https://user-images.githubusercontent.com/120135105/223735716-934524b0-b4f4-4204-b4a1-b966aa4a39d7.png)
 
 <!--
 **EmmanuelUs4/EmmanuelUs4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
