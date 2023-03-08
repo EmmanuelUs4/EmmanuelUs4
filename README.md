@@ -25,4 +25,4 @@ I like planes ![jet-plane](https://user-images.githubusercontent.com/120135105/2
       
 ![камов-kamov](https://user-images.githubusercontent.com/120135105/223748425-3454559d-f7a5-41cd-a547-54575ac87257.gif)
 
-![d5xy829-ccfae74a-0154-453a-8670-f30b11a28134](https://user-images.githubusercontent.com/120135105/223746648-681edfa7-f31f-4033-ad1d-7018fd8bdb02.gif)
+
