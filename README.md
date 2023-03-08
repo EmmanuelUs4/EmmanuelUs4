@@ -8,10 +8,14 @@ I like planes ![jet-plane](https://user-images.githubusercontent.com/120135105/2
 .
 
 
-- 🔭 I'm currently working on myself feedback.
-- 🌱 I'm currently learning Java language.
-- 📫 How to reach me: 
-      -LinkedIn https://www.linkedin.com/in/emmanuel-usme-1a8bb5265/
+- ![telescopio](https://user-images.githubusercontent.com/120135105/223738537-4f40c747-085e-4881-9b14-e72d391ccd51.png)
+  I'm currently working on myself feedback.
+-  ![planta](https://user-images.githubusercontent.com/120135105/223738719-3a4d0a1a-a00c-40e6-96cb-caba6d3d9580.png)
+ I'm currently learning Java language.
+- ![correo-electronico](https://user-images.githubusercontent.com/120135105/223739032-58fc50b3-d39a-449d-8b0a-0db0525d09bd.png)
+  How to reach me: 
+     ![linkedin](https://user-images.githubusercontent.com/120135105/223739062-b06608fc-5a4d-4a4c-ae51-44236297007c.png)
+ -LinkedIn https://www.linkedin.com/in/emmanuel-usme-1a8bb5265/
       
 ![Sin título](https://user-images.githubusercontent.com/120135105/223735716-934524b0-b4f4-4204-b4a1-b966aa4a39d7.png)
 
