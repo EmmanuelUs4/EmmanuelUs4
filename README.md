@@ -5,10 +5,11 @@ I'm a MAKAIA Back-End web development trainee. I have experience using tools lik
  Java, followed by ![js](https://user-images.githubusercontent.com/120135105/223746200-e82be57d-90f3-40c1-bf59-a3cfd07e1fd8.png)
  JavaScript,  ![html-5](https://user-images.githubusercontent.com/120135105/223746218-aa3f5116-97b5-4714-b3b4-c0cdc1694e53.png)
  HTML and ![css-3](https://user-images.githubusercontent.com/120135105/223746243-a040c919-61cc-47d7-b60d-b425c7aa8b0a.png)
- CSS.
+ CSS.![mysql (1)](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/0d859f37-24dd-4e38-bcf1-b1664b4c98c3)
+
 
  That's not all, i  also have knowledge on Mdata base management like...
- MySQL ![mysql](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/15dfc7e1-8a8e-4af5-957a-1a8aaa0be903)
+ MySQL 
 
 
 
