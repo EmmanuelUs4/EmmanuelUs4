@@ -21,7 +21,7 @@ I like planes ![jet-plane](https://user-images.githubusercontent.com/120135105/2
 
 
 - ![telescopio](https://user-images.githubusercontent.com/120135105/223738537-4f40c747-085e-4881-9b14-e72d391ccd51.png)
-  I'm currently working on myself feedback and my body ![hoja](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/b2ff532b-58f5-4a3f-9a02-e06f11aab4d1)
+  I'm currently working on myself feedback and my body ![fuerte](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/847ed6c0-02a2-4e05-b7d7-686a68b63e47)
 
 -  ![planta](https://user-images.githubusercontent.com/120135105/223738719-3a4d0a1a-a00c-40e6-96cb-caba6d3d9580.png)
  I'm currently learning Front-End development.
