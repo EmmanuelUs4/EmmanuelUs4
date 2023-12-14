@@ -7,6 +7,10 @@ I'm a MAKAIA Back-End web development trainee. I have experience using tools lik
  HTML and ![css-3](https://user-images.githubusercontent.com/120135105/223746243-a040c919-61cc-47d7-b60d-b425c7aa8b0a.png)
  CSS.
 
+ That's not all, i  also have knowledge on Mdata base management like...
+ MySQL ![image](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/c1637536-7dc7-4510-8557-60c137c13540)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelUs4)](https://github.com/anuraghazra/github-readme-stats)
 
 I like planes ![jet-plane](https://user-images.githubusercontent.com/120135105/223732981-475dd64a-4690-4af7-977e-0b5af1161598.png), helicopters ![military-helicopter](https://user-images.githubusercontent.com/120135105/223733070-4efd15c4-1351-4584-bd2d-5725bcac0a50.png) and coding ![programming (1)](https://user-images.githubusercontent.com/120135105/223732291-4df7303c-0439-4417-838a-743966ee7521.png)
