@@ -10,6 +10,7 @@ I'm a MAKAIA Back-End web development trainee. I have experience using tools lik
 
  That's not all, i  also have knowledge on Mdata base management like...
  MySQL ![mysql (1)](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/0d859f37-24dd-4e38-bcf1-b1664b4c98c3)
+and MongoDB ![hoja](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/aed0de60-25f8-4b6a-8533-6e6ae745ca60)
 
 
 
