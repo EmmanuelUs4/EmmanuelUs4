@@ -8,7 +8,7 @@ I'm a MAKAIA Back-End web development trainee. I have experience using tools lik
  CSS.
 
 
- That's not all, i  also have knowledge on Mdata base management like...
+ That's not all, I also have knowledge on data base management like...
  MySQL ![mysql (1)](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/0d859f37-24dd-4e38-bcf1-b1664b4c98c3)
 and MongoDB ![hoja](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/aed0de60-25f8-4b6a-8533-6e6ae745ca60)
 
@@ -21,9 +21,10 @@ I like planes ![jet-plane](https://user-images.githubusercontent.com/120135105/2
 
 
 - ![telescopio](https://user-images.githubusercontent.com/120135105/223738537-4f40c747-085e-4881-9b14-e72d391ccd51.png)
-  I'm currently working on myself feedback.
+  I'm currently working on myself feedback and my body ![hoja](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/b2ff532b-58f5-4a3f-9a02-e06f11aab4d1)
+
 -  ![planta](https://user-images.githubusercontent.com/120135105/223738719-3a4d0a1a-a00c-40e6-96cb-caba6d3d9580.png)
- I'm currently learning Java language.
+ I'm currently learning Front-End development.
 - ![correo-electronico](https://user-images.githubusercontent.com/120135105/223739032-58fc50b3-d39a-449d-8b0a-0db0525d09bd.png)
   How to reach me: 
                 
