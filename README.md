@@ -8,7 +8,8 @@ I'm a MAKAIA Back-End web development trainee. I have experience using tools lik
  CSS.
 
  That's not all, i  also have knowledge on Mdata base management like...
- MySQL ![image](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/c1637536-7dc7-4510-8557-60c137c13540)
+ MySQL ![mysql](https://github.com/EmmanuelUs4/EmmanuelUs4/assets/120135105/15dfc7e1-8a8e-4af5-957a-1a8aaa0be903)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelUs4)](https://github.com/anuraghazra/github-readme-stats)
