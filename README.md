@@ -1,11 +1,11 @@
 ### Hi there I'm  Emmanuel. ![goodbye](https://user-images.githubusercontent.com/120135105/223740102-e935d9c3-b87e-43da-a880-9d99b87b9abd.png)
 
 
-I'm a MAKAIA Back-End web development trainee. I have experience using tools like Visual Studio Code  and Intellij. The main language I manage is ![java](https://user-images.githubusercontent.com/120135105/223746155-7fc8fad7-6602-456e-a34e-029c2d3ce7b5.png)
+I'm a Back-End web developer and MAKAIA Front-End trainee. I have experience using tools like Visual Studio Code  and Intellij. The main language I manage is ![java](https://user-images.githubusercontent.com/120135105/223746155-7fc8fad7-6602-456e-a34e-029c2d3ce7b5.png)
  Java, followed by ![js](https://user-images.githubusercontent.com/120135105/223746200-e82be57d-90f3-40c1-bf59-a3cfd07e1fd8.png)
  JavaScript,  ![html-5](https://user-images.githubusercontent.com/120135105/223746218-aa3f5116-97b5-4714-b3b4-c0cdc1694e53.png)
- HTML and ![css-3](https://user-images.githubusercontent.com/120135105/223746243-a040c919-61cc-47d7-b60d-b425c7aa8b0a.png)
- CSS.
+ HTML, ![css-3](https://user-images.githubusercontent.com/120135105/223746243-a040c919-61cc-47d7-b60d-b425c7aa8b0a.png)
+ CSS, SASS and React.
 
 
  That's not all, I also have knowledge on data base management like...
